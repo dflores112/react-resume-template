@@ -1,21 +1,21 @@
 {
   "main": {
-    "name":"Tim Baker",
-    "occupation":"(Your Occupation Here)",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "name":"Daniel Flores",
+    "occupation":"Software Engineer",
+    "description":"that loves to spend my down time learning new technologies and hangin at the beach in Half Moon Bay",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"I am a software engineer from Covina, California. I previously worked at a series A startup in sales and used skills that helped me in that role like communication and being quota driven which I feel will give me a leg up in my software engineering career. Those skills relate because instead of having a quota I will now be focused on shipping product in a timely manner and use my communication skills to help other software engineers understand my decision making process or talk through a technical issue I may be having.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "email": "Danielflores125@gmail.com",
+    "phone": "415-926-9091",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"850 Bryant St.",
+      "city":"San Francisco",
+      "state":"CA",
+      "zip": "94103"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "http://www.danielfloresdev.com",
+    "resumedownload":"https://docsend.com/view/unde7amkicdcxpme",
     "social":[
       {
         "name":"facebook",
@@ -44,7 +44,7 @@
       },
       {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"http://github.com/dflores112",
         "className":"fa fa-github"
       },
       {
@@ -58,16 +58,16 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"San Francisco State University",
+        "degree":"Bachelor of Arts Communcation Studies",
+        "graduated":"December 2018",
+        "description":" your experience at school, what you learned, what useful skills you have acquired eDescribetc."
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Hack Reactor",
+        "degree":"Computer Science",
+        "graduated":"November 2020",
+        "description":"Advanced Software Engineering Immersive Program"
       }
     ],
     "work":[
@@ -90,11 +90,11 @@
         "level":"60%"
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
+        "name":"React",
+        "level":"80%"
       },
       {
-        "name":"ReactJs",
+        "name":"Chart.JS",
         "level":"50%"
       },
       {
@@ -102,11 +102,11 @@
         "level":"90%"
       },
       {
-        "name":"HTML5",
+        "name":"ES6",
         "level":"80%"
       },
       {
-        "name":"VueJs",
+        "name":"PostGres",
         "level":"50%"
       },
       {
