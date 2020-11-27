@@ -100,28 +100,16 @@
         "url":"https://github.com/dflores112/hrsf130-CityComparisions"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Similar Homes You May Like",
+        "category":"Carousel built from scratch with saved homes modal",
+        "image":"SimilarHomes.png",
+        "url":"https://github.com/dflores112/similarHomes"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Backend for calendar service",
+        "category":"Used 10 million records and scaled service using AWS, NGINX, achieved 1300rps ",
+        "image":"k6.png",
+        "url":"https://docs.google.com/document/d/1ZsczXgEziBIFaKFH9xzw38X8eaNOVjTWH_-e36UL4as/edit"
       }
     ]
   },
