@@ -17,40 +17,16 @@
     "website": "http://www.danielfloresdev.com",
     "resumedownload":"https://docsend.com/view/unde7amkicdcxpme",
     "social":[
-      {
-        "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
-      },
+
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/daniel-flores-52367273/",
         "className":"fa fa-linkedin"
-      },
-      {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
       },
       {
         "name":"github",
         "url":"http://github.com/dflores112",
         "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
       }
     ]
   },
@@ -61,7 +37,7 @@
         "school":"San Francisco State University",
         "degree":"Bachelor of Arts Communcation Studies",
         "graduated":"December 2018",
-        "description":" your experience at school, what you learned, what useful skills you have acquired eDescribetc."
+        "description":" Completed courses that included: Leadership Communication, Interpersonal Communcation, Political Communication, Nonverbal Communication. Competed as a wrestler for 5 years. I intially walked on with no scholarship, by my senior season, I was named Captain by my peers and earned a healthy scholarship!"
       },
       {
         "school":"Hack Reactor",
@@ -72,16 +48,16 @@
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"DocSend",
+        "title":"Account Executive",
+        "years":"June 2019 - May 2020",
+        "description":"Built Salesforce reports to understand which leads should be prioritized based on closed won pipeline. Managed a full sales cycle from prospecting to close. Sold a complex solution to CFO’s, investment banks, founders, sales leaders"
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Nordstrom",
+        "title":"Sales Associate",
+        "years":"March 2013 - June 2019",
+        "description":"Display product knowledge and provide exceptional customer service. Exceed my $25,000 quota every two weeks by developing a reliable book of business."
       }
     ],
     "skills":[
@@ -118,10 +94,10 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Two Cities",
+        "category":"Compare cities based on Teleport API",
+        "image":"twocities.png",
+        "url":"https://github.com/dflores112/hrsf130-CityComparisions"
       },
       {
         "title":"Fury Fighting Gear",
